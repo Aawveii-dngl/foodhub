@@ -1,0 +1,12 @@
+.logo{
+    height: 5rem;
+}
+
+.nav-link:hover{
+    color:rgb(255,165,0);
+}
+
+.copyright{
+    display: flex;
+    justify-content: center;
+}
