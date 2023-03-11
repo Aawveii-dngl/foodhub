@@ -127,10 +127,10 @@ session_start();
                 </div>
             </section>
        
-        <footer class="footer">
+            <footer class="footer">
             <div class="container">
                 
-              
+          
                 <div class="bottom-footer">
                     <div class="row">
                         <div class="col-xs-12 col-sm-3 payment-options color-gray">
@@ -155,16 +155,17 @@ session_start();
                         </div>
                         <div class="col-xs-12 col-sm-4 address color-gray">
                                     <h5>Address</h5>
-                                    <p>1086 Stockert Hollow Road, Seattle</p>
-                                    <h5>Phone: 75696969855</a></h5> </div>
+                                    <p>Patan Dhoka,lalitpur</p>
+                                    <h5>Phone: 1236547896</a></h5> </div>
                                 <div class="col-xs-12 col-sm-5 additional-info color-gray">
                                     <h5>Addition informations</h5>
-                                   <p>Join thousands of other restaurants who benefit from having partnered with us.</p>
+                                   <p>How about "Join us for a delicious journey - your favorite foods just a click away!"</p>
                                 </div>
                     </div>
+                    
                 </div>
-       
             </div>
+            
         </footer>
         
     <script src="js/jquery.min.js"></script>
